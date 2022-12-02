@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Raj! 
+- 🧠 I have gained many skills in Excel, MATLAB, SQL, and Python - and data visualisation such as Tableau and PowerBI
+- 👀 I’m interested in improving my skills in Python and SQL, while learning new things! 
+- 🌱 I’m currently improving on my Machine Learning skills in Python, and data visualisations using PowerBI
+- 📫 I can be reached through LinkedIn! - https://www.linkedin.com/in/rajveermudhar/ 
+- 😄 Pronouns: She/Her 
